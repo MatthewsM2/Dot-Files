@@ -1,0 +1,7 @@
+vim.cmd("set number")
+vim.cmd("inoremap { {}<Esc>ha")
+vim.cmd("inoremap ( ()<Esc>ha")
+vim.cmd("inoremap [ []<Esc>ha")
+vim.cmd("inoremap " ""<Esc>ha")
+vim.cmd("inoremap ' ''<Esc>ha")
+vim.cmd("inoremap ` ``<Esc>ha")
